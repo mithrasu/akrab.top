@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://akrab.top/",
   author: "mithras",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Welcome to Mithras Blog, a journey into the secrets of coding and snippets of life. Discover a place where tech meets daily joy.",
   title: "Mithras",
   ogImage: "mithras-og.png",
   lightAndDarkMode: true,
