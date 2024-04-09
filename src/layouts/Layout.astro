@@ -2,6 +2,7 @@
 import { LOCALE, SITE } from "@config";
 import "@styles/base.css";
 import { ViewTransitions } from "astro:transitions";
+import SpeedInsights from '@vercel/speed-insights/astro';
 
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
@@ -106,6 +107,15 @@ const socialImageURL = new URL(
     }
 
     <ViewTransitions />
+
+    // Vercel Speed Insights
+    <script is:inline>
+      function speedInsightsBeforeSend(data){
+        console.log("Speed Insights before send", data)
+        return data;
+      }
+    </script>
+    <SpeedInsights />
 
     <script is:inline src="/toggle-theme.js"></script>
   </head>
