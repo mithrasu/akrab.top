@@ -20,12 +20,6 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [
       remarkToc,
-      [
-        remarkCollapse,
-        {
-          test: "Table of contents",
-        },
-      ],
       remarkReadingTime,
       [
         remarkCollapse,
