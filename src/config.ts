@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://akrab.top/",
   author: "mithras",
-  desc: "Welcome to Mithras Blog, a journey into the secrets of coding and snippets of life. Discover a place where tech meets daily joy.",
+  desc: "Mithras Blog — Insights into coding, the art of living. On this crossroad of the digital and the real, I aim to explore the infinite possibilities of the tech world and capture the enchanting moments of everyday life. Engage, learn, laugh, and leave a lasting impression with us.",
   title: "Mithras",
   ogImage: "mithras-og.png",
   lightAndDarkMode: true,
@@ -27,6 +27,12 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Github",
     href: "https://github.com/mithrasu",
+    linkTitle: ``,
+    active: true,
+  },
+  {
+    name: "LinkedIn",
+    href: "https://www.linkedin.com/in/mithrasu/",
     linkTitle: ``,
     active: true,
   },
@@ -56,38 +62,14 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:quaizast@gmail.com",
+    href: "mailto:mithrasuy@gmail.com",
     linkTitle: ``,
     active: true,
-  },
-  {
-    name: "Reddit",
-    href: "https://www.reddit.com/user/Quaizast/",
-    linkTitle: ``,
-    active: false,
   },
   {
     name: "YouTube",
     href: "https://www.youtube.com/",
     linkTitle: ``,
     active: false,
-  },
-  {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/mithrasu/",
-    linkTitle: ``,
-    active: false,
-  },
-  {
-    name: "WhatsApp",
-    href: "https://www.whatsapp.com/",
-    linkTitle: ``,
-    active: false,
-  },
-  {
-    name: "TikTok",
-    href: "https://www.tiktok.com/",
-    linkTitle: ``,
-    active: false,
-  },
+  }
 ];
