@@ -2,14 +2,16 @@
 author: Mithras
 pubDatetime: 2023-10-31T11:43:00Z
 modDatetime: 2024-04-11T10:03:00Z
-title: MacBook Software Library
-slug:
+title: Software Library
+slug: Software Library
 featured: false
 draft: true
 tags:
   - util
   - mac
+  - iOS
 description:
+  Software Library
 ---
 
 ## 软件资源库
@@ -145,7 +147,7 @@ description:
 
 ## 参考
 
+- [https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 - [https://sspai.com/post/73305](https://sspai.com/post/73305)
 - [https://github.com/pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools)
 - [https://blog.tjdata.site/posts/f57a89c.html](https://blog.tjdata.site/posts/f57a89c.html)
-- [https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
