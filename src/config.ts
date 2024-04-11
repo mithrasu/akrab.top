@@ -71,5 +71,11 @@ export const SOCIALS: SocialObjects = [
     href: "https://www.youtube.com/",
     linkTitle: ``,
     active: false,
+  },
+  {
+    name: "RSS",
+    href: "/rss.xml",
+    linkTitle: ``,
+    active: true,
   }
 ];
