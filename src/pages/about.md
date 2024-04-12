@@ -3,34 +3,27 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+> **The only thing we can be certain of about the future is that it will be absolutely fantastic.**
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## About Me
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Hello! I'm **Mithras**, a backend developer and Open-Source enthusiast from Chengdu, Sichuan, China.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+- Two years working experience in cloud native platform development.
+- Some experience with Python and Rust.
+- Focus on the development of AIGC.
 
-## Tech Stack
+### Interest
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Beyond Programming,  indulge in the world of cinema and literature.You can view my movie-watching, reading history from these places:
 
-## Features
+- [豆瓣](https://www.douban.com/people/214623164/)
+- [NeoDb](https://neodb.social/users/mithrasu/)
 
-Here are certain features of this site.
+## Contact Me
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- [Github](https://github.com/mithrasu)
+- [Twitter](https://twitter.com/Akrab898892)
+- [Telegram](https://t.me/mithrasu)
+- [Mastodon](https://mastodon.social/@mithrasu)
+- [Email](mithrasuy@gmail.com)
