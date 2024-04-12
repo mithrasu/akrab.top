@@ -20,7 +20,7 @@
 
 This is Mithrasu's personal blog website, exploring and recording programming knowledge.
 
-It is built using the [AstroPaper](https://github.com/satnaing/astro-paper/tree/main) theme and deployed on [Vercel](https://vercel.com/).
+Powered by [AstroPaper](https://github.com/satnaing/astro-paper/tree/main) and [Vercel](https://vercel.com/).
 
 ## 📜 License
 
