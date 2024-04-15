@@ -2,7 +2,7 @@
 author: Mithras
 pubDatetime: 2023-10-31T11:43:11Z
 modDatetime: 2024-04-15T13:22:47Z
-title: Mac 软件资源工具
+title: Mac 软件工具库
 slug: mac-software
 featured: false
 draft: false
@@ -12,9 +12,11 @@ tags:
 description: 整理目前自己使用的 MacBook Pro 软件工具
 ---
 
+## Table of contents
+
 ## 前言
 
-去年换了 MacBook Pro M2 (14 英寸)，在使用一段时间后，整理一下目前自己使用的软件和工具，后续也会继续迭代更新。
+去年换了 MacBook Pro M2 (14 英寸)，在使用一段时间后，整理一下目前自己使用的软件和工具，后续也会迭代更新。
 
 ![Mac Software](https://image.akrab.top/blog-picture/2024/04/9e44602e6fe3ee8abc91f4537870a058.jpg)
 
@@ -63,7 +65,6 @@ description: 整理目前自己使用的 MacBook Pro 软件工具
 - [Termius](https://termius.com/)：终端管理工具，免费版够用
 - [TablePlus](https://tableplus.com/)：数据库可视化管理工具，支持PostgreSQL、MySQL、Mongo、Redis等多种数据库
 - [Tower](https://www.git-tower.com/)：简单好用的 Git 客户端
-- [GitButler](https://gitbutler.com/)：新一代 Git 客户端，界面美观，使用虚拟分支可以同时在多个分支上独立工作
 - [RapidAPI](https://rapidapi.com/)：API 设计、管理、测试工具
 - [Dash](https://kapeli.com/dash)：强大的API离线文档工具
 - [Charles](https://www.charlesproxy.com/)：代理工具，支持查看所有的HTTP/HTTPS流量
