@@ -1,5 +1,7 @@
 import type { Site, SocialObjects } from "./types";
+import type { GiscusProps } from "@giscus/react";
 
+// Set basic site info
 export const SITE: Site = {
   website: "https://akrab.top/",
   author: "mithras",
@@ -21,6 +23,20 @@ export const LOGO_IMAGE = {
   svg: true,
   width: 96,
   height: 96,
+};
+
+export const GISCUS: GiscusProps = {
+  repo: "mithrasu/akrab.top",
+  repoId: "R_kgDOLoqvoQ",
+  category: "General",
+  categoryId: "DIC_kwDOLoqvoc4Ce3jg",
+  mapping: "pathname",
+  strict: "0",
+  reactionsEnabled: "1",
+  emitMetadata: "0",
+  inputPosition: "bottom",
+  lang: "en",
+  loading: "lazy",
 };
 
 export const SOCIALS: SocialObjects = [
