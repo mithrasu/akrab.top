@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/mithrasu/akrab.top" target="_blank">akrab.top</a>
+  <a href="https://github.com/mithrasu/akrab.top" target="_blank">Mithras</a>
 </h1>
 
 <div align="center">
@@ -18,9 +18,18 @@
 
 ---
 
-This is Mithrasu's personal blog website, exploring and recording programming knowledge.
+👋 Welcome to my personal blog, where I share not only my programming knowledge and experiences but also my thoughts on life, movies, and books.Here, you’ll find:
 
-Powered by [AstroPaper](https://github.com/satnaing/astro-paper/tree/main) and [Vercel](https://vercel.com/).
+- 💻 Programming tutorials, tips, and tricks for learning various languages and technologies
+- 📝 Personal stories and reflections on my journey as a developer
+- 🎬 Movie reviews and recommendations from a programming perspective (because, let's be honest, coding and movies have more in common than you think!)
+- 📖 Book summaries and analysis, with a focus on how the themes and ideas can be applied to our daily lives and work
+
+I’ll share what I’ve learned, experienced, and enjoyed, and hope that you’ll find something of value here. Thanks for stopping by!
+
+---
+
+Powered by [AstroPaper](https://github.com/satnaing/astro-paper/) and [Vercel](https://vercel.com/).
 
 ## 📜 License
 
