@@ -7,7 +7,7 @@ slug: mac-software
 featured: false
 draft: false
 tags:
-  - Mac
+  - mac
 description: 简述 MacBook Pro 的一些使用体验，并整理了目前使用的软件清单
 ---
 

@@ -1,17 +1,18 @@
 ---
 author: Mithras
 pubDatetime: 2024-04-25T20:59:01Z
-modDatetime: 2024-04-26T00:02:14Z
+modDatetime: 2024-04-26T00:17:22Z
 title: 使用 Vercel 搭建博客
 slug: building-a-blog-with-vercel
 featured: false
 draft: false
 tags:
-  - Blog
+  - blog
+  - vercel
 description: 使用 Vercel 搭建一个博客网站，并绑定自定义域名
 ---
 
-[Vercel](https://vercel.com/)是一个构建和部署应用程序的平台，快速构建、自动部署前端静态网站，且平台本身提供 CDN 加速，访问速度比较快。并且支持 35+ 框架，提供了大量的模版。
+[Vercel](https://vercel.com/) 是一个构建和部署应用程序的平台，快速构建、自动部署前端静态网站，且平台本身提供 CDN 加速，访问速度比较快。并且支持 35+ 框架，提供了大量的模版。
 
 > **Vercel is the Frontend Cloud.** Build, scale, and secure a faster, personalized web.
 
@@ -60,7 +61,7 @@ description: 使用 Vercel 搭建一个博客网站，并绑定自定义域名
 
 ### 配置 CNAME 解析
 
-我这里使用了 [Cloudflare](https://cloudflare.com/) 进行解析。
+我使用了 [Cloudflare](https://cloudflare.com/) 进行解析。
 
 - 添加一条域名 A 记录指向 Vercel 服务器地址 `76.76.21.21`；
 - 按 Vercel 提示，添加一条 CNAME 记录值为 Vercel 的 CNAME 服务器：`cname.vercel-dns.com` ;
