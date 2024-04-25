@@ -2,23 +2,40 @@
 author: Mithras
 pubDatetime: 2023-10-31T11:43:11Z
 modDatetime: 2024-04-15T13:22:47Z
-title: Mac 软件库
+title: MacBook Pro 使用体验及软件清单
 slug: mac-software
 featured: false
 draft: false
 tags:
-  - util
-  - mac
-description: 整理自己使用的 MacBook Pro 软件工具
+  - Mac
+description: 简述 MacBook Pro 的一些使用体验，并整理了目前使用的软件清单
 ---
-
-## Table of contents
 
 ## 前言
 
-去年换了 MacBook Pro M2 (14 英寸)，在使用一段时间后，整理一下目前自己使用的软件和工具，后续也会迭代更新。
+我的老机器是一台华硕的轻薄本，本来还想要坚持一段时间的，结果没想到修了之后网卡又坏了，并且性能已经不能满足我的使用了，趁此机会刚好换了 MacBook Pro。
 
-![Mac Software](https://image.akrab.top/blog-picture/2024/04/9e44602e6fe3ee8abc91f4537870a058.jpg)
+可以在官网查看详细的信息：[MacBook Pro](https://www.apple.com/macbook-pro/)
+
+![MacBook Pro](https://image.akrab.top/blog-picture/2024/04/34131d726ee8a6087f894894830c2f5e.png)
+
+我购入的是 14 英寸的 MacBook M2 Pro，32GB 内存+512GB 存储，完全满足开发和日常使用。
+
+## 使用体验
+
+初次使用 Mac，除了 `Command` 键，基本上没什么不适应的，有一部分原因是在买之前我看了不少操作视频。
+
+下面简单说一下我的一些使用体验。
+
+整体的外观还是比较满意的，确实比 Windows 电脑好看（个人观点）。重量其实也不轻，和我原来的轻薄本应该差不多，如果是 MacBook Air 的话应该会轻不少。最难以接受的就是刘海屏了，当然可以采用深色主题和壁纸掩藏，但还是觉得很恶心 🙄。再就是由于存在刘海屏，菜单栏的应用图标显示不全，只能使用第三方软件。
+
+屏幕素质很惊艳，但总感觉有点亮，长时间可能比较累眼睛。音质很不错，感觉可能比部分的音响设备要好。合盖即走也非常棒，这些对于我来说是巨大的体验升级。然后就是大家都知道的续航了，我没有具体测试过，但是日常开发和使用10个小时以上应该是没问题的。
+
+## 软件清单
+
+![MacBook Launchpad](https://image.akrab.top/blog-picture/2024/04/827e9c40ce272322c922ee485efb8793.png)
+
+后续如果有变动，会及时迭代更新。
 
 ### 系统拓展
 
@@ -37,14 +54,14 @@ description: 整理自己使用的 MacBook Pro 软件工具
 
 ### 实用工具
 
-- [Raycast](https://www.raycast.com): 快捷启动工具，效率神器
+- [Raycast](https://www.raycast.com): 快捷启动工具，效率神器，可下载各种拓展配合使用
 - [Homebrew](https://docs.brew.sh/): 软件包管理器
 - [Bob](https://bobtranslate.com): 翻译和 OCR 软件，支持接入各种服务
 - [Keka](https://www.keka.io/en): 文件压缩/解压工具
 - [SwitchHosts](https://github.com/oldj/SwitchHosts): 管理 hosts 文件
 - [PicGo](https://github.com/Molunerfinn/PicGo): 图床工具
 - [Shottr](https://shottr.cc/): 截图工具，支持滚动截屏、延迟截屏等
-- [Maccy](https://github.com/p0deje/Maccy): 剪贴板管理工具
+- [Maccy](https://github.com/p0deje/Maccy): 免费开源的剪贴板管理工具
 - [Upscayl](https://www.upscayl.org/): AI驱动的图像增强工具
 - [MessAuto](https://github.com/LeeeSe/MessAuto): 自动提取Mac平台的短信和邮箱验证码
 - [Downie 4](https://software.charliemonroe.net/downie/): 视频下载工具，支持下载 Youtube、Vimeo 等网站的视频
@@ -70,7 +87,7 @@ description: 整理自己使用的 MacBook Pro 软件工具
 
 ### 社交通讯
 
-- [微信](https://weixin.qq.com): 主要社交工具
+- [微信](https://weixin.qq.com): 主要的社交工具
 - [QQ](https://im.qq.com): 保留一些同学的联系方式
 - [Telegram](https://telegram.org): 获取信息、反馈和资源
 - [Discord](https://discord.com): 软件/项目反馈和获取资讯
@@ -101,10 +118,9 @@ description: 整理自己使用的 MacBook Pro 软件工具
 
 ### 写作阅读
 
-- [微信读书](https://weread.qq.com/): 读书软件，个人认为是腾讯最好的软件
+- [Obsidian](https://obsidian.md/): 知识储备库（第二大脑）
 - [NetNewsWire](https://netnewswire.com/): 开源的RSS 阅读器
 - [Omnivore](https://omnivore.app/): 文档整理和稍后阅读工具
-- [Obsidian](https://obsidian.md/): 知识储备库（第二大脑）
 - [WPS](https://platform.wps.cn/): Word/PPT/Excel 处理工具
 - [PDF Expert](https://pdfexpert.com/): PDF 阅读工具
 - [flomo](https://flomoapp.com/): 记录临时想法
@@ -113,7 +129,7 @@ description: 整理自己使用的 MacBook Pro 软件工具
 
 - [INNA](https://iina.io/): 免费开源的视频播放器
 - [VidHub](https://okaapps.com/product/1659622164): 视频播放器，支持本地文件、云盘服务等
-- [Spotify](https://open.spotify.com/): 多设备音乐播放器
+- [Spotify](https://open.spotify.com/): 多设备音乐播放器，印区合租
 
 ### 云端存储
 
@@ -123,7 +139,7 @@ description: 整理自己使用的 MacBook Pro 软件工具
 
 ### 远程工具
 
-- [腾讯会议](https://meeting.tencent.com/): 视频会议工具（超过 2 人限制 1 小时，使用频率降低）
+- [腾讯会议](https://meeting.tencent.com/): 视频会议工具（超过 2 人限制 1 小时，使用频率低）
 - [RustDesk](https://rustdesk.com/): 开源的远程控制工具
 - [LocalSend](https://omnivore.app/): 开源的跨平台AirDrop替代品，用于Apple 和安卓传输文件
 
@@ -140,7 +156,7 @@ description: 整理自己使用的 MacBook Pro 软件工具
 
 ### AI工具
 
-- [Ollama](https://ollama.com/): 本地启动并运行 Llama 2、Mistral、Gemma 等大型语言模型
+- [Ollama](https://ollama.com/): 本地启动并运行 Llama 3、Mistral、Gemma 等大型语言模型
 - [OpenCat](https://opencat.app/): AI 应用平台，支持聊天、图像生成、翻译等
 
 ## 参考
