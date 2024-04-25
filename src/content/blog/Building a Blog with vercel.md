@@ -1,22 +1,18 @@
 ---
 author: Mithras
 pubDatetime: 2024-04-25T20:59:01Z
-modDatetime: 2024-04-26T00:17:22Z
+modDatetime: 2024-04-26T00:46:37Z
 title: 使用 Vercel 搭建博客
-slug: building-a-blog-with-vercel
+slug: build-blog-with-vercel
 featured: false
 draft: false
 tags:
-  - Blog
   - Vercel
+  - Blog
 description: 使用 Vercel 搭建一个博客网站，并绑定自定义域名
 ---
 
-## Vercel
-
 [Vercel](https://vercel.com/) 是一个构建和部署应用程序的平台，快速构建、自动部署前端静态网站，且平台本身提供 CDN 加速，访问速度比较快。并且支持 35+ 框架，提供了大量的模版。
-
-> **Vercel is the Frontend Cloud.** Build, scale, and secure a faster, personalized web.
 
 个人用户使用 Hobby（免费计划） 足够了。
 
@@ -42,7 +38,7 @@ description: 使用 Vercel 搭建一个博客网站，并绑定自定义域名
 
 ## 绑定自定义域名（可选）
 
-由于 `vercel.app` 域名已经被 DNS 污染，国内网络访问比较慢
+由于 `vercel.app` 域名已经被 DNS 污染，国内网络访问比较慢，所以推荐绑定自定义域名。
 
 ### 准备域名
 
