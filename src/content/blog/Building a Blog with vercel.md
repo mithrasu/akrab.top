@@ -9,7 +9,7 @@ draft: false
 tags:
   - Vercel
   - Blog
-description: 使用 Vercel 搭建一个博客网站，并绑定自定义域名
+description: 使用 Vercel 快速搭建博客网站，并绑定自定义域名
 ---
 
 [Vercel](https://vercel.com/) 是一个构建和部署应用程序的平台，快速构建、自动部署前端静态网站，且平台本身提供 CDN 加速，访问速度比较快。并且支持 35+ 框架，提供了大量的模版。
