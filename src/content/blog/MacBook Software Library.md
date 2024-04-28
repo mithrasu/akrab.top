@@ -1,7 +1,7 @@
 ---
 author: Mithras
 pubDatetime: 2023-09-14T16:37:31.000+08:00
-modDatetime: 2024-04-25T16:10:31.000+08.00
+modDatetime: 2024-04-25T16:10:31.000+08:00
 title: MacBook Pro 使用体验及软件清单
 slug: mac-software
 featured: false
