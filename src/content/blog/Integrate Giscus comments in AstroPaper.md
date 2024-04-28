@@ -2,7 +2,7 @@
 author: Mithras
 pubDatetime: 2024-04-28T13:11:02Z
 modDatetime: 
-title: AstroPaper 集成 Giscus 评论系统
+title: AstroPaper 集成 giscus 评论系统
 slug: Integrate-giscus-comments
 featured: false
 draft: false
@@ -10,7 +10,7 @@ tags:
   - Blog
   - AstroPaper
   - Giscus
-description: 
+description: 为 Astro（AstroPaper） 博客网站集成由 Github Discussion 支持的 giscus 评论系统
 ---
 
 ## giscus
