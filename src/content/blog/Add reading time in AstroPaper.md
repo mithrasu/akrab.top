@@ -22,6 +22,7 @@ npm install reading-time mdast-util-to-string
 ```
 
 `reading-time`：计算阅读分钟数
+
 `mdast-util-to-string`：用于从 markdown 文件中提取所有文本
 
 ## 创建 remark 插件
