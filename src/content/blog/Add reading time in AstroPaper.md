@@ -1,7 +1,7 @@
 ---
 author: Mithras
-pubDatetime: 2024-04-28T12:18:36.000+08:00
-modDatetime: 
+pubDatetime: 2024-04-28T12:18:36Z
+modDatetime: 2024-04-28T12:45:13Z
 title: 在 AstroPaper 中添加阅读时间
 slug: add-reading-time
 featured: false

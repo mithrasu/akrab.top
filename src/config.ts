@@ -10,7 +10,7 @@ export const SITE: Site = {
   ogImage: "mithras-og.png",
   lightAndDarkMode: true,
   postPerPage: 5,
-  scheduledPostMargin: 60 * 60 * 1000, // 60 minutes
+  scheduledPostMargin: 8 * 60 * 60 * 1000, // 8 hours
 };
 
 export const LOCALE = {
