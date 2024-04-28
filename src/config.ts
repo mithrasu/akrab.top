@@ -30,11 +30,11 @@ export const GISCUS: GiscusProps = {
   repoId: "R_kgDOLoqvoQ",
   category: "General",
   categoryId: "DIC_kwDOLoqvoc4Ce3jg",
-  mapping: "pathname",
+  mapping: "title",
   strict: "0",
   reactionsEnabled: "1",
   emitMetadata: "0",
-  inputPosition: "bottom",
+  inputPosition: "top",
   lang: "en",
   loading: "lazy",
 };
