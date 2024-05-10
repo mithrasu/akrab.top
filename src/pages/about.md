@@ -7,7 +7,7 @@ title: "About"
 
 > **The only thing we can be certain of about the future is that it will be absolutely fantastic.**
 
-## About Me
+## About
 
 Hello! I'm **[Mithras](https://akrab.top)**, a backend developer and Open-Source enthusiast from Chengdu, Sichuan, China.
 
@@ -15,14 +15,12 @@ Hello! I'm **[Mithras](https://akrab.top)**, a backend developer and Open-Source
 - Some experience with Java, Python and Go.
 - Experiments with new technologies and languages (like Rust, AI!).
 
-### Interest
-
 Outside of programming, I indulge in movies🎬 and reading📚. You can view my movie-watching and reading history from [NeoDB](https://neodb.social/users/mithrasu/). And I will also share some thoughts about movies and reading here as well.
 
-## Contact Me
+## Contact
 
 - [Github](https://github.com/mithrasu)
-- [Twitter](https://twitter.com/Akrab898892)
+- [Twitter](https://twitter.com/mithrasuy)
 - [Telegram](https://t.me/mithrasu)
 - [Mastodon](https://mastodon.social/@mithrasu)
 - [Email](mithrasuy@gmail.com)

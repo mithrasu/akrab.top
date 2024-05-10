@@ -50,11 +50,11 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/mithrasu/",
     linkTitle: ``,
-    active: true,
+    active: false,
   },
   {
     name: "Twitter",
-    href: "https://twitter.com/Akrab898892",
+    href: "https://twitter.com/mithrasuy",
     linkTitle: ``,
     active: true,
   },
