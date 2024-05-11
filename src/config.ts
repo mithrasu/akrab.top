@@ -88,10 +88,4 @@ export const SOCIALS: SocialObjects = [
     linkTitle: ``,
     active: false,
   },
-  {
-    name: "RSS",
-    href: "/rss.xml",
-    linkTitle: ``,
-    active: true,
-  }
 ];

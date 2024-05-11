@@ -9,7 +9,7 @@ title: "About"
 
 ## About
 
-Hello! I'm **[Mithras](https://akrab.top)**, a backend developer and Open-Source enthusiast from Chengdu, Sichuan, China.
+Hello! I'm **[Mithras](https://akrab.top)**, a backend developer and Open-Source enthusiast from Chengdu, China.
 
 - Two years working experience in cloud native platform development.
 - Some experience with Java, Python and Go.
