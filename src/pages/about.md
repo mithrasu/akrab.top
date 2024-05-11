@@ -7,8 +7,6 @@ title: "About"
 
 > **The only thing we can be certain of about the future is that it will be absolutely fantastic.**
 
-## About
-
 Hello! I'm **[Mithras](https://akrab.top)**, a backend developer and Open-Source enthusiast from Chengdu, China.
 
 - Two years working experience in cloud native platform development.
