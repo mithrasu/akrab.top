@@ -1,7 +1,7 @@
 ---
 author: Mithras
 pubDatetime: 2023-09-14T16:37:31.000+08:00
-modDatetime: 2024-04-25T16:10:31.000+08:00
+modDatetime: 2024-06-07T10:35:49.000+08:00
 title: MacBook Pro 使用体验及软件清单
 slug: mac-software
 featured: false
@@ -50,41 +50,41 @@ description: 简述 MacBook Pro 的一些使用体验，并整理了目前使用
 - [CleanMyMac X](https://macpaw.com/): 电脑管家，用于清理缓存、卸载/更新软件
 - [AirBuddy](https://v2.airbuddy.app/): 耳机管理工具，也可查看设备电量
 - [Mac Mouse Fix](https://macmousefix.com/): 鼠标及滚轮优化
-- [Caffeinated](https://caffeinated.app/): 阻止Mac进入睡眠、调暗屏幕或启动屏幕保护程序
 - [Command X](https://sindresorhus.com/command-x): 在 Finder 中剪贴（剪切和粘贴文件）
+- [Oh My Zsh](https://ohmyz.sh): 管理 Zsh 配置
 
 ### 实用工具
 
 - [Raycast](https://www.raycast.com): 快捷启动工具，效率神器，可下载各种拓展配合使用
-- [Homebrew](https://docs.brew.sh/): 软件包管理器
+- [Homebrew](https://docs.brew.sh/): 软件包管理神器
 - [Bob](https://bobtranslate.com): 翻译和 OCR 软件，支持接入各种服务
 - [Keka](https://www.keka.io/en): 文件压缩/解压工具
 - [SwitchHosts](https://github.com/oldj/SwitchHosts): 管理 hosts 文件
 - [PicGo](https://github.com/Molunerfinn/PicGo): 图床工具
 - [Shottr](https://shottr.cc/): 截图工具，支持滚动截屏、延迟截屏等
-- [Maccy](https://github.com/p0deje/Maccy): 免费开源的剪贴板管理工具
-- [Upscayl](https://www.upscayl.org/): AI驱动的图像增强工具
-- [MessAuto](https://github.com/LeeeSe/MessAuto): 自动提取Mac平台的短信和邮箱验证码
-- [Downie 4](https://software.charliemonroe.net/downie/): 视频下载工具，支持下载 Youtube、Vimeo 等网站的视频
-- [Oh My Zsh](https://ohmyz.sh): 管理 Zsh 配置
+- [Maccy](https://github.com/p0deje/Maccy): 开源免费的剪贴板管理工具
+- [Upscayl](https://www.upscayl.org/): AI 驱动的图像增强工具
+- [MessAuto](https://github.com/LeeeSe/MessAuto): 自动提取 Mac 平台的短信和邮箱验证码
+- [Downie 4](https://software.charliemonroe.net/downie/): 视频下载工具，支持下载 Youtube、Vimeo 等各种网站的视频
 - [Linear](https://linear.app/): 项目管理工具
+- [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder): 开源的多功能、高性能的录屏软件
 
 ### 开发工具
 
 - [Intellij IDEA](https://www.jetbrains.com/idea/): Java/Kotlin 集成开发工具，主力开发工具
 - [PyCharm](https://www.jetbrains.com/pycharm/): Python 集成开发工具
 - [GoLand](https://www.jetbrains.com/go/): Golang 集成开发工具
-- [RustRover](https://www.jetbrains.com/rust/): Rust 集成开发工具（preview版）
+- [RustRover](https://www.jetbrains.com/rust/): Rust 集成开发工具
 - [Visual Studio Code](https://code.visualstudio.com/): 微软推出的代码编辑器，前端及轻量开发
 - [Xcode](https://developer.apple.com/xcode/): Apple(Mac/iOS) 应用程序开发工具
 - [Orbstack](https://orbstack.dev/): Docker Desktop 替代品，更快运行容器
-- [Wrap](https://www.warp.dev/): AI驱动的终端工具
+- [Wrap](https://www.warp.dev/): AI 驱动的终端工具
 - [Termius](https://termius.com/): 终端管理工具，免费版够用
-- [TablePlus](https://tableplus.com/): 数据库可视化管理工具，支持PostgreSQL、MySQL、Mongo、Redis等多种数据库
+- [TablePlus](https://tableplus.com/): 数据库可视化管理工具，支持PostgreSQL、MySQL、Redis等多种数据库
 - [Tower](https://www.git-tower.com/): 简单好用的 Git 客户端
-- [RapidAPI](https://rapidapi.com/): API 设计、管理、测试工具
-- [Dash](https://kapeli.com/dash): 强大的API离线文档工具
+- [HTTPie](https://kapeli.com/dash): API 管理、测试工具
 - [Charles](https://www.charlesproxy.com/): 代理工具，支持查看所有的HTTP/HTTPS流量
+- [VMware Fusion](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/desktop-hypervisor.html.html.html): 虚拟机运行工具（虽然比不上 [Parallels Desktop](https://www.parallels.com/)，但免费的更香）
 
 ### 社交通讯
 
@@ -105,7 +105,7 @@ description: 简述 MacBook Pro 的一些使用体验，并整理了目前使用
     - [AutoPager](https://greasyfork.org/en/scripts/419215-%E8%87%AA%E5%8A%A8%E6%97%A0%E7%BC%9D%E7%BF%BB%E9%A1%B5): 自动翻页
     - [Video Quality Fixer for Twitter](https://greasyfork.org/en/scripts/399827-video-quality-fixer-for-twitter): 强制播放最高质量的Twitter视频
   - [Adblock for Youtube](https://chromewebstore.google.com/detail/cmedhionkhpnakcndndgjdbohmhepckk): 移除Youtube上的广告
-  - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb): 广告拦截器
+  - [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm): 广告拦截器
   - [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate-web-p/bpoadfkcbjbfhfodiogcnhhhpibjhbnh): 沉浸式网页双语翻译扩展
   - [Volumn Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke): 音量控制器
   - [豆伴](https://chrome.google.com/webstore/detail/%E8%B1%86%E4%BC%B4%EF%BC%9A%E8%B1%86%E7%93%A3%E8%B4%A6%E5%8F%B7%E5%A4%87%E4%BB%BD%E5%B7%A5%E5%85%B7/ghppfgfeoafdcaebjoglabppkfmbcjdd): 豆瓣帐号备份工具
@@ -114,6 +114,8 @@ description: 简述 MacBook Pro 的一些使用体验，并整理了目前使用
   - [V2EX Polish](https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm): V2ex网页美化与拓展
   - [Omnivore](https://chromewebstore.google.com/detail/omnivore/blkggjdmcfjdbmmmlfcpplkchpeaiiab): 将文档、PDF快速保存至Omnivore
   - [Raindrop.io](https://chromewebstore.google.com/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien): 书签管理器
+  - [Twitter Bird Shield](https://chromewebstore.google.com/detail/twitter-bird-shield/igapbfjkbkmjcmgjmgfcegamhkfppdmg): 屏蔽黄推、标记用户、支持下载视频等功能
+  - [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe): 在 Google 搜索中屏蔽指定网站
 - [Google Chrome](https://www.google.com/chrome): 备用浏览器
 - [ClashX Pro](https://github.com/yichengchen/clashX): 网络代理工具
 
@@ -121,10 +123,8 @@ description: 简述 MacBook Pro 的一些使用体验，并整理了目前使用
 
 - [Obsidian](https://obsidian.md/): 知识储备库（第二大脑）
 - [NetNewsWire](https://netnewswire.com/): 开源的RSS 阅读器
-- [Omnivore](https://omnivore.app/): 文档整理和稍后阅读工具
-- [WPS](https://platform.wps.cn/): Word/PPT/Excel 处理工具
-- [PDF Expert](https://pdfexpert.com/): PDF 阅读工具
-- [flomo](https://flomoapp.com/): 记录临时想法
+- [Omnivore](https://omnivore.app/): 稍后阅读工具
+- [Zotero](https://www.zotero.org/): 文献管理工具
 
 ### 影音娱乐
 
@@ -147,7 +147,6 @@ description: 简述 MacBook Pro 的一些使用体验，并整理了目前使用
 ### 产品设计
 
 - [Figma](https://www.figma.com/): 团队协作设计，提供自动布局、实时预览等特性
-- [Sketch](https://www.sketch.com/): 提供大量的设计工具和插件支持
 
 ### 视频剪辑
 
@@ -159,6 +158,8 @@ description: 简述 MacBook Pro 的一些使用体验，并整理了目前使用
 
 - [Ollama](https://ollama.com/): 本地启动并运行 Llama 3、Mistral、Gemma 等大型语言模型
 - [OpenCat](https://opencat.app/): AI 应用平台，支持聊天、图像生成、翻译等
+- [Poe](https://poe.com/): AI 模型交互平台，不支持离线
+- [ChatGPT](https://chatgpt.com/): [OpenAI](https://openai.com/) 训练的大模型，客户端尚未全面开放
 
 ## 参考
 
